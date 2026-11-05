@@ -1,0 +1,10 @@
+.git
+.github
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
+htmlcov
+test_*.py
+README.md
+coverage-report.txt
